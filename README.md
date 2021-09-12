@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on @bravecompany
+- 🌱 I’m currently learning front end
+- 📫 How to reach me: 
+  - 📩 email: leedr0730@gmail.com
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darae07&show_icons=true&theme=buefy" alt="darae07" />
 <!--
