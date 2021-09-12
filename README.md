@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darae07&show_icons=true&theme=gotham" alt="darae07" />
 <!--
 **darae07/darae07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
