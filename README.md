@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning front end
 - 📫 How to reach me: 
   - 📩 email: leedr0730@gmail.com
+  - 📃 blog: https://dahna.tistory.com
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=darae07&show_icons=true&theme=buefy" alt="darae07" />
 <!--
