@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently in between jobs
 - 🌱 I’m currently learning front end
 - 📫 How to reach me: 
   - 📩 email: leedr0730@gmail.com
